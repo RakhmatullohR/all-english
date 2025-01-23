@@ -605,9 +605,49 @@ Why were you late this morning?
 
 ## A
 
+-  What is Paul doing now at 6 o'clock? - Paul is at home. He is watching TV.
+-  Where was Paul at 4 o'clock? - At 4 o'clock, Paul was at the sports club.
+-  What was Paul doing at 4 o'clock? - He was swimming in the pool.
+-  Was Paul watching TV at 4 o'clock? - No, he wasn't watching TV.
+-  What did Paul start doing at 3:30? - At 3:30, Paul started swimming.
+-  What was Paul doing at 4:00? - At 4:00, he was swimming.
+-  What did Paul stop doing at 4:15? - At 4:15, he stopped swimming.
+
 ## B
 
+-  What was he doing in the evening? - He was doing his homework in the evening.
+-  What was she watching on her laptop? - She was watching a movie on her laptop.
+-  Where was your cat playing all day? - It (my cat) was playing in the garden all day.
+-  What were you doing at the beach yesterday? - We were swimming at the beach yesterday.
+-  Where were you living last year? - You were living in a small town last year.
+-  What were they playing in the park? - They were playing football in the park.
+-  Was he doing his chores on time? - No, he wasn't doing his chores on time.
+-  Was she watching the news when you called? - No, she wasn't watching the news when I called.
+-  Was your cat playing with the toys in the room? - No, it wasn't playing with the toys in the room.
+-  Why weren't you swimming? - We weren't swimming because it was too cold.
+-  Were you living in this city two years ago? - No, we weren't living in this city two years ago.
+-  Were they playing basketball after school? - No, they weren't playing basketball after school.
+-  Was he doing his assignment properly? - He wasn't doing his assignment properly.
+-  Was she watching the match on TV? - No, she wasn't watching the match on TV.
+-  Was you cat playing with other animals outside? - No, it wasn't playing with other animals outside.
+-  Were we swimming in the same pool last summer? - No, we weren't swimming in the same pool last summer.
+-  Were you living abroad for a few months? - No, we weren't living abroad for a few months.
+-  Were they playing video games all night? - No, they weren't playing video games all night.
+
+-  What were you doing at 11.30 yesterday? Were you reading? - At 11:30 yesterday, I wasn't reading. I was doing something else.
+-  What did he say? - I don't know. I wasn't listening.
+-  Why didn’t you go out? - It was raining, so we didn’t go out.
+-  Where were you living in 2009? - In 2009, we were living in Canada.
+-  What is she wearing today? What was she wearing yesterday? - Today she’s wearing a skirt, but yesterday she was wearing trousers.
+-  What was the weather like when you woke up yesterday? - I woke up early yesterday. It was a beautiful morning. The sun was shining and the birds were singing.
+
 ## C
+
+-  What are you doing now? - I’m working now.
+-  Is it raining now? - No, it isn’t raining now.
+-  What were you doing at 10:30 last night? - I was working at 10:30 last night.
+-  Was it raining when you went out? - No, it wasn’t raining when we went out.
+-  What were you doing at 3 o’clock? - I was doing my homework at 3 o’clock.
 
 ## 13.1
 
@@ -620,6 +660,28 @@ Why were you late this morning?
 
 ## 13.2
 
+-  What was she having at 7:15? - At 7:15 she was having breakfast.
+-  What activity was she doing at 8:00? - At 8:00 she was reading a newspaper.
+-  Which chore was she doing at 8:45? - At 8:45 she was washing her car.
+-  Where was she at 9:30, and what was she doing? - At 9:30 she was cleaning the kitchen.
+-  Who was she with at 10:45, and what was happening? - At 10:45 she was playing tennis.
+-  What meal was she preparing at 12:10? - At 12:10 she was cooking lunch.
+
 ## 13.3
 
+-  Where were you living in 2012? - In London.
+-  What were you doing at 2 o'clock - I was sleeping.
+-  Was it raining when you got up? - No, it was sunny.
+-  Why was Sue driving so fast? - Because she was late.
+-  Was Tom wearing a suit yesterday? - No, a T-shirt and jeans.
+
 ## 13.4
+
+-  Was he wearing a jacket? - No, he wasn't wearing a jacket.
+-  What was he carrying? - He was carrying a bag.
+-  Was he going to the dentist? - No, he wasn't going to the dentist.
+-  What was he eating? - He was eating an ice cream.
+-  Was he carrying an umbrella? - No, he wasn't carrying an umbrella.
+-  Was he going home? - No, he wasn't going home.
+-  What was he wearing on his head? - He was wearing a hat.
+-  Was he riding a bicycle? - No, he wasn't riding a bicycle.
