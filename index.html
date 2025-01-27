@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Responsive SVG</title>
+   <link rel="stylesheet" href="styles.css">
+   <style>
+      /* Ensure the body takes up full height and removes margin */
+      body,
+      html {
+         /* height: 100%; */
+         margin: 0;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         background-color: #f0f0f0;
+      }
+
+      /* Set up the container for the SVG to be responsive */
+      .svg-wrapper {
+         background: #000;
+         width: 100%;
+         max-width: 1000px;
+         height: auto;
+      }
+
+      /* Ensure the SVG scales correctly with the container */
+      svg {
+         width: 100%;
+         height: auto;
+      }
+   </style>
+</head>
+
+<body>
+   <div class="svg-wrapper">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="400px" height="200px" fill="none">
+         <path
+            d="M0 274.516V30C0 13.4315 13.4315 0 30 0H31.0535V144.5C31.0535 199.728 75.825 244.5 131.053 244.5H346.67C379.295 244.5 409.06 263.118 423.335 292.454V292.454C454.449 356.392 545.551 356.392 576.665 292.454V292.454C590.94 263.118 620.705 244.5 653.33 244.5H867.374C922.603 244.5 967.374 199.728 967.374 144.5V0H970C986.569 0 1000 13.4315 1000 30V274.516V470C1000 486.569 986.569 500 970 500H500H30C13.4315 500 0 486.569 0 470V274.516Z"
+            fill="#FD7D7D" />
+      </svg>
+   </div>
+</body>
+
+</html>

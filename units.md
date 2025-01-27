@@ -1,282 +1,3 @@
-# UNIT-O1: am/is/are
-
-My name is Lisa.
-I'm 22.
-I am American. I'm from Chicago.
-I'm a student.
-My father is a doctor and my mother is a journalist.
-My favourite colour is blue.
-My favourite sports are football and swimming.
-I’m interested in art.
-I'm not interested in politics.
-I'm cold. Can you close the window, please?
-I'm 32 years old. My sister is 29.
-Steve is ill. He's in bed.
-My brother is scared of dogs.
-It’s ten o'clock. You're late again.
-Ann and I are good friends.
-Your keys are on the table.
-I'm tired, but I'm not hungry.
-Lisa isn’t interested in politics. She's interested in art.
-James isn’t a teacher. He's a student.
-Those people aren’t English. They're Australian.
-It’s sunny today, but it isn’t warm.
-Thank you. That’s very kind of you.
-Look! There's Chris.
-Here's your key.
-Thank you.
-
-# UNIT-O2: am/is/are (questions)
-
-'What’s your name?' 'David.'
-'Are you married?' 'No, I'm not.'
-'How old are you?' '25.'
-'Are you a student?' 'Yes, I am.'
-'Am I late?' 'No, you're on time.'
-Is your mother at home?' No, she's out.'
-Are your parents at home?' No, they're out.'
-'Is it cold in your room?' 'Yes, a little.'
-Your shoes are nice. Are they new?
-Is she at home?
-Is your mother at home?
-Are they new?
-Are your shoes new?
-Where is your mother? Is she at home?
-'Where are you from?' 'Canada.'
-'What colour is your car?' 'It’s red.'
-'How old is Joe?' 'He's 24.'
-How are your parents? Are they well?
-These shoes are nice. How much are they?
-This hotel isn’t very good. Why is it so expensive?
-What’s the time?
-Who's that man?
-Where's Lucy?
-How's your father?
-Are you tired?' Yes, I am.'
-'Are you hungry?' 'No, I'm not, but I'm thirsty.'
-Is your friend English?' Yes, he is.'
-'Are these your keys?' Yes, they are.'
-That’s my seat.' No, it isn’t.'
-
-# UNIT-O3: I am doing ... (present continuous);
-
-I'm eating.
-She's eating.
-She isn’t reading.
-It’s raining.
-The sun isn’t shining.
-We're running.
-They're running.
-They aren’t walking.
-I'm working. I'm not watching TV.
-Maria is reading a newspaper.
-She isn’t eating.
-She's not eating.
-The bus is coming.
-We're having dinner.
-You're not listening to me.
-You aren’t listening to me.
-The children are doing their homework.
-I'm working.
-she's wearing a hat.
-they're playing football.
-I'm not watching TV.
-Please be quiet. I'm working.
-Look, there's Sarah. She's wearing a brown coat.
-The weather is nice. It’s not raining.
-
--  Where are the children?' 'they're playing in the park.'
-   We're having dinner now. Can I call you later?
-   You can turn off the television. I'm not watching it.
-
-# UNIT-O4: Are you doing ... ? (present continuous questions);
-
-'Are you feeling OK?' 'Yes, I'm fine, thanks.'
-'Is it raining?' 'Yes, take an umbrella.'
-Why are you wearing a coat? It’s not cold.
-'What’s Paul doing?' 'He's studying for his exams.'
-'What are the children doing?' ’they're watching TV.'
-Look, there's Emily! Where's she going?
-Who are you waiting for? Are you waiting for Sue?
-Is he working today?
-Is Ben working today?
-Where are they going?
-Where are those people going?
-'Are you going now?' 'Yes, I am.'
-'Is Ben working today?' 'Yes, he is.'
-Is it raining?' No, it isn’t.'
-'Are your friends staying at a hotel?' 'No, they aren’t. They're staying with me.'
-
-# UNIT-O5: do/work/like etc. (present simple)
-
-We read a lot.
-They have a lot of books.
-They read a lot.
-I like ice cream.
-He’s eating an ice cream.
-He likes ice cream.
-I work in a shop. My brother works in a bank.
-Lucy lives in London. Her parents live in Scotland.
-It rains a lot in winter.
-Joe has a shower every day.
-I like big cities.
-Your English is good. You speak very well.
-Tom works very hard. He starts at 7.30 and finishes at 8 o'clock in the evening.
-The earth goes round the sun.
-We do a lot of different things in our free time.
-It costs a lot of money to build a hospital.
-Sue always gets to work early.
-I never eat breakfast.
-We often go away at weekends.
-Mark usually plays football on Sundays.
-I sometimes walk to work, but not very often.
-
-# UNIT-O6: I don’t... (present simple negative)
-
-'Coffee?' 'No, thanks. I don’t drink coffee.'
-She doesn’t drink coffee.
-I don’t like my job.
-He doesn’t like his job.
-I drink coffee, but I don’t drink tea.
-Sue drinks tea, but she doesn’t drink coffee.
-You don’t work very hard.
-We don’t watch TV very often.
-The weather is usually nice. It doesn’t rain very often.
-Sam and Chris don’t know many people.
-I don’t like football.
-He doesn’t like football.
-I don’t like Fred and Fred doesn’t like me.
-My car doesn’t use much petrol.
-Sometimes he is late, but it doesn’t happen very often.
-I don’t like washing the car. I don’t do it very often.
-Sarah speaks Spanish, but she doesn’t speak Italian.
-David doesn’t do his job very well.
-Paula doesn’t usually have breakfast.
-
-# UNIT-O7: Do you ... ? (present simple questions)
-
-Do you play the guitar?
-Do your friends live near here?
-Does Chris work on Sundays?
-Does it rain a lot here?
-Where do your parents live?
-How often do you wash your hair?
-What does this word mean?
-How much does it cost to fly to Rome?
-Does Chris always work on Sundays?
-What do you usually do at weekends?
-'What do you do?' 'I work in a bank.'
-Do they like music?
-Does he like music?
-'Do you play the guitar?' 'No, I don’t.'
-'Do your parents speak English?' 'Yes, they do.'
-'Does James work hard?' 'Yes, he does.'
-'Does your sister live in London?' 'No, she doesn’t.'
-
-# UNIT-O8: I am doing (present continuous) and I do (present simple)
-
-Jack is watching television.
-He is not playing the guitar.
-But Jack has a guitar.
-He often plays it and he plays very well.
-Jack plays the guitar,
-but he is not playing the guitar now.
-'Is he playing the guitar?' 'No, he isn’t.'
-'Does he play the guitar?' 'Yes, he does.'
-Please be quiet. I'm working.
-Tom is having a shower at the moment.
-Take an umbrella with you. It’s raining.
-You can turn off the television. I'm not watching it.
-Why are you under the table?
-What are you doing?
-I work every day from 9 o'clock to 5.30.
-Tom has a shower every morning.
-It rains a lot in winter.
-I don’t watch TV very often.
-What do you usually do at weekends?
-I'm tired. I want to go home.
-'Do you know that girl?' 'Yes, but I don’t remember her name.'
-Here are two-sentence questions for each word in beginner level:
-Do you like apples?
-What do you like to do?
-Do you want to play?
-What do you want for lunch?
-Do you know her?
-What do you know about animals?
-Do you understand this?
-Can you understand me?
-Do you remember my name?
-What do you remember about the story?
-Do you prefer pizza or pasta?
-Which do you prefer, winter or summer?
-Do you need a pencil?
-What do you need right now?
-What does this word mean?
-What do you mean by that?
-Do you believe in fairy tales?
-What do you believe in?
-Did you forget your book?
-What do you often forget?
-
-# UNIT-O9: I have ... and I've got ...
-
-I have a headache.
-I’ve got a headache.
-I have blue eyes.
-I've got blue eyes.
-Tom has two sisters.
-Tom has got two sisters.
-Our car has four doors.
-Our car has got four doors.
-Sarah isn’t feeling well. She has a headache.
-Sarah isn’t feeling well. She's got a headache.
-They like animals. They have a horse, three dogs and six cats.
-They like animals. They've got a horse, three dogs and six cats.
-I don’t have a car.
-I haven’t got a car.
-They don’t have any children.
-They haven’t got any children.
-It’s a nice house, but it doesn’t have a garden.
-It’s a nice house, but it hasn’t got a garden.
-Amy doesn’t have a job at the moment.
-Amy hasn’t got a job at the moment.
-'Do you have a camera?' 'No, I don’t.'
-'Have you got a camera?' 'No, I haven’t.'
-'Does Helen have a car?' 'Yes, she does.'
-'Has Helen got a car?' 'Yes, she has.'
-What kind of car does she have?
-What kind of car has she got?
-How many children do they have?
-How many children have they got?
-
-# UNIT-10: was/were
-
-Now Robert is at work.
-At midnight last night
-he wasn’t at work.
-He was in bed.
-He was asleep
-I am tired.
-Where is Kate?
-The weather is good today.
-I was tired last night.
-Where was Kate yesterday?
-The weather was good last week.
-You are late.
-They aren’t here.
-You were late yesterday.
-They weren’t here last Sunday.
-Last year Rachel was 22, so she is 23 now.
-When I was a child, I was scared of dogs.
-We were hungry after the journey, but we weren’t tired.
-The hotel was comfortable, but it wasn’t expensive.
-Was the weather nice when you were on holiday?
-Your shoes are nice. Were they expensive?
-Why were you late this morning?
-'Were you late?' 'No, I wasn’t.'
-'Was Tom at work yesterday?' 'Yes, he was.'
-'Were Sue and Steve at the party?' No, they weren’t.'
-
 # UNIT-11: worked/got/went etc (past simple) ✅
 
 ## A
@@ -514,7 +235,206 @@ Why were you late this morning?
 -  I cut my hand this morning. - How did you do that?
 -  Why weren't you at the meeting yesterday? - I didn't know about it.'
 
-# UNIT-16: I've just ... . I’ve already ... . I haven’t ... yet. (present perfect 2)
+# UNIT-13: I was doing (past continuous) ✅
+
+## A
+
+-  What is Paul doing now at 6 o'clock? - Paul is at home. He is watching TV.
+-  Where was Paul at 4 o'clock? - At 4 o'clock, Paul was at the sports club.
+-  What was Paul doing at 4 o'clock? - He was swimming in the pool.
+-  Was Paul watching TV at 4 o'clock? - No, he wasn't watching TV.
+-  What did Paul start doing at 3:30? - At 3:30, Paul started swimming.
+-  What was Paul doing at 4:00? - At 4:00, he was swimming.
+-  What did Paul stop doing at 4:15? - At 4:15, he stopped swimming.
+
+## B
+
+-  What was he doing in the evening? - He was doing his homework in the evening.
+-  What was she watching on her laptop? - She was watching a movie on her laptop.
+-  Where was your cat playing all day? - It (my cat) was playing in the garden all day.
+-  What were you doing at the beach yesterday? - We were swimming at the beach yesterday.
+-  Where were you living last year? - You were living in a small town last year.
+-  What were they playing in the park? - They were playing football in the park.
+-  Was he doing his chores on time? - No, he wasn't doing his chores on time.
+-  Was she watching the news when you called? - No, she wasn't watching the news when I called.
+-  Was your cat playing with the toys in the room? - No, it wasn't playing with the toys in the room.
+-  Why weren't you swimming? - We weren't swimming because it was too cold.
+-  Were you living in this city two years ago? - No, we weren't living in this city two years ago.
+-  Were they playing basketball after school? - No, they weren't playing basketball after school.
+-  Was he doing his assignment properly? - He wasn't doing his assignment properly.
+-  Was she watching the match on TV? - No, she wasn't watching the match on TV.
+-  Was you cat playing with other animals outside? - No, it wasn't playing with other animals outside.
+-  Were we swimming in the same pool last summer? - No, we weren't swimming in the same pool last summer.
+-  Were you living abroad for a few months? - No, we weren't living abroad for a few months.
+-  Were they playing video games all night? - No, they weren't playing video games all night.
+
+-  What were you doing at 11.30 yesterday? Were you reading? - At 11:30 yesterday, I wasn't reading. I was doing something else.
+-  What did he say? - I don't know. I wasn't listening.
+-  Why didn’t you go out? - It was raining, so we didn’t go out.
+-  Where were you living in 2009? - In 2009, we were living in Canada.
+-  What is she wearing today? What was she wearing yesterday? - Today she’s wearing a skirt, but yesterday she was wearing trousers.
+-  What was the weather like when you woke up yesterday? - I woke up early yesterday. It was a beautiful morning. The sun was shining and the birds were singing.
+
+## C
+
+-  What are you doing now? - I’m working now.
+-  Is it raining now? - No, it isn’t raining now.
+-  What were you doing at 10:30 last night? - I was working at 10:30 last night.
+-  Was it raining when you went out? - No, it wasn’t raining when we went out.
+-  What were you doing at 3 o’clock? - I was doing my homework at 3 o’clock.
+
+## 13.1
+
+-  Where was Rachel at 3 o'clock, and what was she doing? - Rachel was at home at 3 o'clock. She was watching TV.
+-  Where were Jack and Kate at 3 o'clock, and what were they doing? - Jack and Kate were at the cinema at 3 o'clock. They were watching a film.
+-  Where was Tom at 3 o'clock, and what was he doing? - Tom was in his car at 3 o'clock. He was driving.
+-  Where was Tracey at 3 o'clock, and what was she doing? - Tracey was at the station at 3 o'clock. She was waiting for a train.
+-  Where were Mr and Mrs Hall at 3 o'clock, and what were they doing? - Mr and Mrs Hall were in the park at 3 o'clock. They were walking.
+-  Where were you at 3 o'clock, and what were you doing? - I was in a cafe at 3 o'clock. I was having a drink with some friends.
+
+## 13.2
+
+-  What was she having at 7:15? - At 7:15 she was having breakfast.
+-  What activity was she doing at 8:00? - At 8:00 she was reading a newspaper.
+-  Which chore was she doing at 8:45? - At 8:45 she was washing her car.
+-  Where was she at 9:30, and what was she doing? - At 9:30 she was cleaning the kitchen.
+-  Who was she with at 10:45, and what was happening? - At 10:45 she was playing tennis.
+-  What meal was she preparing at 12:10? - At 12:10 she was cooking lunch.
+
+## 13.3
+
+-  Where were you living in 2012? - In London.
+-  What were you doing at 2 o'clock - I was sleeping.
+-  Was it raining when you got up? - No, it was sunny.
+-  Why was Sue driving so fast? - Because she was late.
+-  Was Tom wearing a suit yesterday? - No, a T-shirt and jeans.
+
+## 13.4
+
+-  Was he wearing a jacket? - No, he wasn't wearing a jacket.
+-  What was he carrying? - He was carrying a bag.
+-  Was he going to the dentist? - No, he wasn't going to the dentist.
+-  What was he eating? - He was eating an ice cream.
+-  Was he carrying an umbrella? - No, he wasn't carrying an umbrella.
+-  Was he going home? - No, he wasn't going home.
+-  What was he wearing on his head? - He was wearing a hat.
+-  Was he riding a bicycle? - No, he wasn't riding a bicycle.
+
+# UNIT-14: I was doing (past continuous) and I did (past simple) ✅
+
+## A
+
+-  Jack started reading. He was reading a book. His phone rang. His stopped reading. He answered his phone.
+-  What happened? - His phone rang.
+-  What was Jack doing when his phone rang? - He was reading a book.
+-  What did he do when his phone rang? - He stopped reading and answered his phone.
+-  Jack began reading before his phone rang. So when his phone rang, he was reading.
+
+## B
+
+-  What did you do yesterday morning? - We played tennis.
+-  Jack read a book yesterday.
+-  Did you watch the game on TV last Were you watching TV when I phoned night?
+-  It didn't rain while we were on holiday
+
+-  What were you doing at 10.30? - We were playing tennis.
+-  Jack was reading a book when his phone rang.
+-  Were you watching TV when I phoned you?
+-  It wasn't raining when I got up.
+-  I started work at 9 o'clock and finished at 4.30. At 2.30 I was working.
+-  It started raining before we went out.
+-  It was raining when we went out.
+-  I saw Lucy and Steve this morning. They were waiting at the bus stop.
+-  Kelly fell asleep while she was reading.
+
+## 14.1
+
+-  Lucy broke her arm last week. It happened when she was painting her room. She fell of the ladder.
+
+-  The train arrived at the station and Paula got off. Two friends of her, Jon and Rachel, were waiting to meet her.
+
+-  Yesterday Sue was walking along the road when she met James. He was going to the station to catch a train and he was carrying a bag. They stopped to talk for a few minutes.
+
+## 14.2
+
+-  What was the weather like when you got up this morning? - It was raining.
+-  Was Jane busy when you went to see her? - Yes, she was studying.
+-  Did Paul call you this morning? - Yes, he called while I was having breakfast.
+-  Was Tracey at work today? - No, she didn't go to work. She was ill.
+-  How fast were you driving when the police stopped you? - I'm not sure, but I wasn't driving very fast.
+-  Did your team win the football match yesterday? - The weather was very bad, so we didn't play.
+-  How did you break the window? - We were playing football. I kicked the ball, and it hit the window.
+-  Did you see Jessica last night? - Yes, she was wearing a very nice jacket.
+-  What were you doing at 2 o'clock this morning? - I was asleep.
+-  How did you get into your room? - I climbed in through a window because I had lost my key last night.
+
+# **PERFECT TENSES**
+
+# UNIT-15: I have done (present perfect done) ✅
+
+## A
+
+-  How are his shoes? - His shoes are dirty.
+-  What is he doing? - He is cleaning his shoes.
+-  What has he done? - He has cleaned his shoes.
+-  Are his shoes clean now? - Yes, his shoes are clean now.
+-  Where are they? - They are at home.
+-  What are they doing? - They are going out.
+-  What have they done? - They have gone out.
+-  Are they at home now? - No, they are not at home now.
+
+## B
+
+-  What have you done today? - I have cleaned the house today.
+-  Have you finished your homework yet? - No, we haven't finished it yet.
+-  What has she done this week? - She has started a new job this week.
+-  What have they lost? - They have lost their keys.
+-  Has he done his work yet? - Yes, he has done his work.
+-  How many times have you been to the museum? - I have been to the museum twice.
+-  Where do you go every weekend? - We go to the park every weekend.
+-  What have you done? - I have cleaned the windows.
+-  What have you done with the project? - We have finished the project.
+-  What has she started doing? - She has started reading the new book.
+-  What have you bought? - I have bought a new laptop.
+-  How has his day been? - He has had a busy day.
+-  What happened to your phone? - I have broken my phone.
+-  Have you seen that movie before? - Yes, I have seen that movie before.
+-  What has happened to it? - It has fallen off the table.
+-  Where have they gone? - They have gone to the beach.
+-  What have you lost? - I've lost my passport.
+-  Where's Rebecca? - She's gone to bed.
+-  What have you bought? - We've bought a new car.
+-  Why are you worried? - It's Rachel's birthday tomorrow, and I haven't bought her a present.
+-  Bob is away on holiday. - Oh, where has he gone?
+-  Can I take this newspaper? - Have you finished with it?
+
+## 15.1
+
+-  What has he done? - He has cleaned his shoes.
+-  What has she done? - She has closed the door.
+-  Where have they gone? - They have gone to bed.
+-  What has happened? - It has stopped raining.
+-  What has he done? - He has had a shower.
+-  What has fallen down? - The picture has fallen down.
+
+## 15.2
+
+-  What have you lost? - I have lost my keys. I don't know where they are.
+-  What have you bought? - I have bought some new shoes. Do you want to see them?
+-  Where is Helen? - She's not here. She has gone out.
+-  Who are you looking for? - I'm looking for Paula. Have you seen her?
+-  What has happened? - Look! Somebody has broken that window.
+-  Does Lisa know that you're going away? - Yes, I have told her.
+-  What can't you find? - I can't find my umbrella. Somebody has taken it.
+-  Where are my glasses? - I don't know. I haven't seen them.
+-  Who are you looking for? - I'm looking for Sarah. Where has she gone?
+-  Do you know that woman? - Yes, I know that woman, but I have forgotten her name.
+-  What is Sue doing tonight? - Sue is having a party tonight. She has invited a lot of people.
+-  What are you going to do? Have you decided? - I'm still thinking about it. I haven't decided yet.
+-  Does Ben know about the meeting tomorrow? - I don't think so. I haven't told him.
+-  I have finished with this magazine. Do you want it? - Yes, I would like it. Thank you for offering.
+
+# UNIT-16: I've just ... . I’ve already ... . I haven’t ... yet. (present perfect 2) ✅
 
 ## A ✅
 
@@ -601,87 +521,83 @@ Why were you late this morning?
 -  Tom hali ham mashinasini sotganmi? - Ha, uni sotgan.
    % - Has Tom sold his car yet? - Yes, he has sold it.
 
-# UNIT-13: I was doing (past continuous)
+# UNIT-17: Have you ever... ? (present perfect 3) ✅
 
 ## A
 
--  What is Paul doing now at 6 o'clock? - Paul is at home. He is watching TV.
--  Where was Paul at 4 o'clock? - At 4 o'clock, Paul was at the sports club.
--  What was Paul doing at 4 o'clock? - He was swimming in the pool.
--  Was Paul watching TV at 4 o'clock? - No, he wasn't watching TV.
--  What did Paul start doing at 3:30? - At 3:30, Paul started swimming.
--  What was Paul doing at 4:00? - At 4:00, he was swimming.
--  What did Paul stop doing at 4:15? - At 4:15, he stopped swimming.
+-  Have you been to Rome? - Yes, I have many times.
+-  Have you ever been to Japan? - No, I've never been to Japan.
+
+-  Have you been to France? - No, I haven't.
+-  Have you been to Canada? - Yes, I've been to Canada, but I haven't been to the United States.
+-  What kind of person is Mary? - Mary is an interesting person. She has had many different jobs and has lived in many places.
+-  Have you seen that woman anywhere before? - Yes, I've seen that woman before, but I can't remember where.
+-  How many times has Brazil won the World Cup? - Brazil has won the World Cup five times.
+-  Have you read this book? - Yes, I've read it twice.
 
 ## B
 
--  What was he doing in the evening? - He was doing his homework in the evening.
--  What was she watching on her laptop? - She was watching a movie on her laptop.
--  Where was your cat playing all day? - It (my cat) was playing in the garden all day.
--  What were you doing at the beach yesterday? - We were swimming at the beach yesterday.
--  Where were you living last year? - You were living in a small town last year.
--  What were they playing in the park? - They were playing football in the park.
--  Was he doing his chores on time? - No, he wasn't doing his chores on time.
--  Was she watching the news when you called? - No, she wasn't watching the news when I called.
--  Was your cat playing with the toys in the room? - No, it wasn't playing with the toys in the room.
--  Why weren't you swimming? - We weren't swimming because it was too cold.
--  Were you living in this city two years ago? - No, we weren't living in this city two years ago.
--  Were they playing basketball after school? - No, they weren't playing basketball after school.
--  Was he doing his assignment properly? - He wasn't doing his assignment properly.
--  Was she watching the match on TV? - No, she wasn't watching the match on TV.
--  Was you cat playing with other animals outside? - No, it wasn't playing with other animals outside.
--  Were we swimming in the same pool last summer? - No, we weren't swimming in the same pool last summer.
--  Were you living abroad for a few months? - No, we weren't living abroad for a few months.
--  Were they playing video games all night? - No, they weren't playing video games all night.
-
--  What were you doing at 11.30 yesterday? Were you reading? - At 11:30 yesterday, I wasn't reading. I was doing something else.
--  What did he say? - I don't know. I wasn't listening.
--  Why didn’t you go out? - It was raining, so we didn’t go out.
--  Where were you living in 2009? - In 2009, we were living in Canada.
--  What is she wearing today? What was she wearing yesterday? - Today she’s wearing a skirt, but yesterday she was wearing trousers.
--  What was the weather like when you woke up yesterday? - I woke up early yesterday. It was a beautiful morning. The sun was shining and the birds were singing.
+-  Has Ann ever been to Australia? - Yes, once.
+-  Have you ever played golf? - Yes, I play a lot.
+-  Has your sister ever travelled by plane? - My sister has never travelled by plane.
+-  Have you ever ridden a horse? - No, I've never ridden a horse.
+-  Who is that man? - I don't know. I've never seen him before.
 
 ## C
 
--  What are you doing now? - I’m working now.
--  Is it raining now? - No, it isn’t raining now.
--  What were you doing at 10:30 last night? - I was working at 10:30 last night.
--  Was it raining when you went out? - No, it wasn’t raining when we went out.
--  What were you doing at 3 o’clock? - I was doing my homework at 3 o’clock.
+-  Where is Ben? - He is on holiday. He has gone to Spain.
+-  Hi, I have been on holiday. I have been to Spain.
+-  Ben, where are you? Everyone is looking for you! - Oh, I’ve come to Spain. I’m in Madrid now.
+-  Where has Ben gone? - He has gone to Spain.
+-  Has Ben ever been to Spain? - Hes, He has been to Spain.
+-  I can't find Susan. Where has she gone? - She has gone to the library.
+-  Oh, hello Susan! I was looking for you. Where have you been? - I have been at the library.
 
-## 13.1
+## 17.1
 
--  Where was Rachel at 3 o'clock, and what was she doing? - Rachel was at home at 3 o'clock. She was watching TV.
--  Where were Jack and Kate at 3 o'clock, and what were they doing? - Jack and Kate were at the cinema at 3 o'clock. They were watching a film.
--  Where was Tom at 3 o'clock, and what was he doing? - Tom was in his car at 3 o'clock. He was driving.
--  Where was Tracey at 3 o'clock, and what was she doing? - Tracey was at the station at 3 o'clock. She was waiting for a train.
--  Where were Mr and Mrs Hall at 3 o'clock, and what were they doing? - Mr and Mrs Hall were in the park at 3 o'clock. They were walking.
--  Where were you at 3 o'clock, and what were you doing? - I was in a cafe at 3 o'clock. I was having a drink with some friends.
+-  Have you ever been to London? - Yes, many times.
+-  Have you ever played golf? - No, never.
+-  Have you ever been to Australia? - Yes, once.
+-  Have you ever lost your passport? - No, never.
+-  Have you ever flown in a helicopter? - Yes, a few times.
+-  Have you ever won a race? - No, never.
+-  Have you ever been to New York? - Yes, twice.
+-  Have you ever driven a bus? - No, never.
+-  Have you ever broken your leg? - Yes, once.
 
-## 13.2
+## 17.2
 
--  What was she having at 7:15? - At 7:15 she was having breakfast.
--  What activity was she doing at 8:00? - At 8:00 she was reading a newspaper.
--  Which chore was she doing at 8:45? - At 8:45 she was washing her car.
--  Where was she at 9:30, and what was she doing? - At 9:30 she was cleaning the kitchen.
--  Who was she with at 10:45, and what was happening? - At 10:45 she was playing tennis.
--  What meal was she preparing at 12:10? - At 12:10 she was cooking lunch.
+-  Has she been to New York twice? - Yes, she’s been to New York twice.
+-  How many times has she been to Australia? - She’s been to Australia once.
+-  Has she ever won a race? - No, she has never won a race.
+-  How many times has she flown in a helicopter? - She has flown in a helicopter a few times.
+-  Have you ever been to New York? - No, I have never been to New York.
+-  How many times have you played tennis? - I have played tennis many times.
+-  Have you ever driven a lorry? - No, I have never driven a lorry.
+-  Have you ever been late for work or school? - Yes, I have been late for work or school a few times.
 
-## 13.3
+## 17.3
 
--  Where were you living in 2012? - In London.
--  What were you doing at 2 o'clock - I was sleeping.
--  Was it raining when you got up? - No, it was sunny.
--  Why was Sue driving so fast? - Because she was late.
--  Was Tom wearing a suit yesterday? - No, a T-shirt and jeans.
+-  Has Mary had many different jobs? - Yes, she has had many different jobs.
+-  Has Mary traveled all over the world? - Yes, she has traveled all over the world.
+-  Has Mary met a lot of interesting people? - Yes, she has met a lot of interesting people.
+-  Has Mary done a lot of interesting things? - Yes, she has done a lot of interesting things.
+-  Has Mary written ten books? - Yes, she has written ten books.
+-  Has Mary been married three times? - Yes, she has been married three times.
 
-## 13.4
+## 17.4
 
--  Was he wearing a jacket? - No, he wasn't wearing a jacket.
--  What was he carrying? - He was carrying a bag.
--  Was he going to the dentist? - No, he wasn't going to the dentist.
--  What was he eating? - He was eating an ice cream.
--  Was he carrying an umbrella? - No, he wasn't carrying an umbrella.
--  Was he going home? - No, he wasn't going home.
--  What was he wearing on his head? - He was wearing a hat.
--  Was he riding a bicycle? - No, he wasn't riding a bicycle.
+-  Where is Ben? - He is on holiday at the moment. He's gone to Spain.
+-  Where are your parents? - They're not at home at the moment. They've gone out.
+-  How many times has Rebecca been to Paris? - She loves Paris. She's been there many times.
+-  Where is Helen? - She was here earlier, but I think she's gone now.
+-  Hello, Sue. I was looking for you. Where have you been? - Hello! I’ve been at the library.
+-  There's a new restaurant in town. Have you been to it? - Yes, I have been there. It’s a great place to eat.
+-  Have you ever been to Mexico? - No, never.
+-  Where's Jessica? - She's not in the office. I think she's gone home.
+
+# UNIT-18:
+
+# UNIT-19:
+
+# UNIT-20:
