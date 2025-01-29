@@ -1,6 +1,6 @@
 # UNIT-12: I didn’t... Did you ... ? (past simple negative and questions) ✅
 
-## A
+## A ✅
 
 -  Futbol o'ynadingizmi? - Yo'q, men futbol o'ynamadim.
    %- Did you play football? - No, I didn’t play football.
@@ -17,7 +17,7 @@
 -  Tez o'tdimi? - Yo'q, tez o'tmadi.
    %- Did it go fast? - No, it didn’t go fast.
 
-## B
+## B ✅
 
 -  Tez-tez televizor ko'rasizmi? - Yo'q, men tez-tez televizor ko'rmayman.
    %- Do you watch TV often? - No, I don’t watch TV very often.
@@ -28,7 +28,7 @@
 -  U 🚺 o'tgan hafta olisga ketdimi? - Ha, u o'tgan hafta olisga ketdi.
    %- Did she go away last week? - Yes, she went away last week.
 
-## C
+## C ✅
 
 -  Televizor ko'rdingizmi? - Yo'q, men televizor ko'rmadim.
    %- Did you watch TV? - No, I didn’t watch TV.
@@ -51,7 +51,7 @@
 -  Kinoga bordingizmi? - Ha, biz kinoga bordik, lekin film bizga yoqmadi.
    %- Did you go to the cinema? - Yes, we went to the cinema, but we didn’t enjoy the film.
 
-## D
+## D ✅
 
 -  Opangiz qo'ng'iroq qildimi? -Ha, opam qo'ng'iroq qildi.
    %- Did your sister call you? - Yes, my sister called me.
@@ -62,7 +62,7 @@
 -  Tatillari uchun ota-onangiz qayerga borishdi? - Dam olishlari uchun ota-onam dengizga ketishdi.
    %- Where did your parents go for their holiday? - My parents went to the beach for their holiday.
 
-## E
+## E ✅
 
 -  Kecha Joni ko'rdingizmi? - Yo'q, ko'rmadim. (qisqa)
    %- Did you see Joe yesterday? - No, I didn't.
@@ -73,138 +73,100 @@
 -  Ota-onangiz bayramni yaxshi o'tkazishdimi? - Ha, o'tkazishdi (qisqa).
    %- Did your parents have a good holiday? - Yes, they did.
 
-## 12.1
+## 12.1 ✅
 
 -  Kimni ko'rdingiz? - Men Barbarani ko'rdim, lekin Jeynni ko'rmadim.
    %- Who did you see? - I saw Barbara, but I didn’t see Jane.
 -  Qachon ishladilar? - Ular dushanba kuni ishladilar, lekin seshanba kuni ishlamadilar.
    %- When did they work? - They worked on Monday, but they didn’t work on Tuesday.
--  Qayerga bording? - Biz pochta bo'limiga bordik, lekin bankka bormadik.
+-  Qayerga bordingiz? - Biz pochta bo'limiga bordik, lekin bankka bormadik.
    %- Where did you go? - We went to the post office, but we didn’t go to the bank.
-   > > >
 -  Unda 🚺 nima bor edi? - Uning qalami bor edi, lekin qog'ozi yo'q edi.
    %- What did she have? - She had a pen, but she didn’t have any paper.
-   > > >
--  Jek maktabda nimani yaxshi bilar edi? - Jek maktabda frantsuz tilini bilar edi, lekin nemis tilini bilmasdi.
-   %- What did Jack know well at school? - Jack did French at school, but he didn’t do German.
-   > > >
+-  Jek maktabda nima o'rgandi? - Jek maktabda frantsuz tilini o'rgandi , lekin nemis tilini o'rganmadi.
+   %- What did Jack do at school? - Jack did French at school, but he didn’t do German.
 
-## 12.2
+## 12.2 ✅
 
 -  Kecha televizor ko'rdingizmi? - Ha, kecha televizor ko'rdim. Siz-chi?
    %- Did you watch TV last night? - Yes, I watched TV last night. How about you?
-   > > >
--  Bayram sizga yoqdimi? - Ha, ziyofat menga yoqdi. Siz-chi?
+-  Bayramdan zavqlandingizmi? - Ha, ziyofatdan zavqlandim. Siz-chi?
    %- Did you enjoy the party? - Yes, I enjoyed the party. How about you?
-   > > >
--  Ta'tilni yaxshi o'tkazdingizmi? - Ha, ta'tilni yaxshi o'tkazdim. Siz-chi?
+-  Yaxshi ta'til o'tkazdingizmi? - Ha, Yaxshi ta'til o'tkazdim. Siz-chi?
    %- Did you have a good holiday? - Yes, I had a good holiday. How about you?
-   > > >
 -  Ishni erta tugatdingizmi? - Ha, ishni erta tugatdim. Siz-chi?
    %- Did you finish work early? - Yes, I finished work early. How about you?
-   > > >
--  Kecha yaxshi uxladingizmi? - Ha, kecha yaxshi uxladim. Siz-chi?
+-  O'tgan kecha yaxshi uxladingizmi? - Ha, o'tgan kech yaxshi uxladim. Siz-chi?
    %- Did you sleep well last night? - Yes, I slept well last night. How about you?
-   > > >
 
-## 12.3
+## 12.3 ✅
 
 -  Kecha televizor ko'rdingizmi? - Yo'q, kecha televizor ko'rmadim.
    %- Did you watch TV yesterday? - No, I didn’t watch TV yesterday.
-   > > >
 -  Bugun ertalab soat 7 dan oldin turdingizmi? - Yo'q, bugun ertalab soat 7 dan oldin turmadim.
    %- Did you get up before 7 o'clock this morning? - No, I didn’t get up before 7 o'clock this morning.
-   > > >
--  Bugun dush qabul qildingizmi? - Yo'q, bugun menda dush yo'q edi.
+-  Bugun dush qabul qildingizmi? - Yo'q, bugun dush qabul qilmadim.
    %- Did you have a shower today? - No, I didn’t have a shower today.
-   > > >
--  Do'kondan jurnal sotib oldingizmi? - Yo'q, men do'kondan jurnal sotib olmaganman.
+-  Do'kondan jurnal sotib oldingizmi? - Yo'q, men do'kondan jurnal sotib olmadim.
    %- Did you buy a magazine at the shop? - No, I didn’t buy a magazine at the shop.
-   > > >
 -  Kechki ovqatda go'sht yedingizmi? - Yo'q, men kechki ovqatda go'sht yemadim.
    %- Did you eat meat at dinner? - No, I didn’t eat meat at dinner.
-   > > >
--  Kecha soat 10.30 dan oldin uxladingizmi? - Yo'q, kecha 10:30 dan oldin uxlamadim.
+-  Kecha soat 10.30 dan oldin uxlashga ketdingizmi? - Yo'q, kecha 10:30 dan oldin uyquga ketmadim.
    %- Did you go to bed before 10.30 last night? - No, I didn’t go to bed before 10.30 last night.
-   > > >
 
-## 12.4
+## 12.4 ✅
 
 -  O'tgan oy Nyu-Yorkka bordik - Qayerda qoldingiz?
    %- We went to New York last month - Where did you stay?
-   > > >
--  Uchrashuvga kechikdim. - Soat nechada keldingiz?
+-  Uchrashuvga kechikdim. - Soat nechada yetib keldingiz?
    %- I was late for the meeting. - What time did you arrive?
-   > > >
 -  Bugun tushdan keyin tennis o'ynadim. - Siz g'alaba qozondingizmi?
    %- I played tennis this afternoon. - Did you win?
-   > > >
--  Men yaxshi dam oldim. - Yaxshi. Qayerga bording?
+-  Men yaxshi ta'til o'tkazdim. - Yaxshi. Qayerga bording?
    %- I had a nice holiday. - Good. Where did you go?
-   > > >
 -  Uyga taksida keldik. - Bu qanchaga tushdi?
    %- We came home by taxi. - How much did it cost?
-   > > >
--  Bugun ertalab charchadim. - Kech yotdingizmi?
+-  Bugun ertalab charchaganman. - Kech uyquga ketdingizmi?
    %- I am tired this morning. - Did you go to bed late?
-   > > >
--  Kecha biz plyajga bordik. - Kuningiz yaxshi o'tdimi?
+-  Kecha biz plyajga bordik. - Yaxshi kun o'tgazdingizmi?
    %- We went to the beach yesterday. - Did you have a nice day?
-   > > >
 -  Deraza singan. - Bu qanday sodir bo'ldi?
    %- The window is broken. - How did that happen?
-   > > >
--  Maktabga soat nechada kelasiz? - Men maktabga ertalab soat 8 da kelaman.
+-  Maktabga soat nechada yetib kelasiz? - Men maktabga ertalab soat 8 da yetib kelaman.
    %- What time do you arrive at school? - I arrive at school at 8 a.m.
-   > > >
 -  Bu kitob qancha turadi? - Bu kitob 20 dollar turadi.
    %- How much does this book cost? - This book costs $20.
-   > > >
 -  Darsdan keyin qayerga borasiz? - Maktabdan keyin kutubxonaga boraman.
    %- Where do you go after school? - I go to the library after school.
-   > > >
 -  Dam olish kunlari kech uxlaysizmi? - Yo'q, dam olish kunlari kech yotmayman.
    %- Do you go to bed late on weekends? - No, I don’t go to bed late on weekends.
-   > > >
 -  Hikoyada nima sodir bo'ladi? - Hikoyada qahramon xazina topadi.
    %- What happens in the story? - In the story, the hero finds a treasure.
-   > > >
 -  Bog'da yaxshi vaqt o'tkazdingizmi? - Ha, men parkda yaxshi vaqt o'tkazdim.
    %- Did you have a nice time at the park? - Yes, I had a nice time at the park.
-   > > >
 -  Yakshanba kunlari uyda qolasizmi? - Ha, yakshanba kunlari uyda qolaman.
    %- Do you stay at home on Sundays? - Yes, I stay at home on Sundays.
-   > > >
 -  Do'stlaringiz bilan o'yinlarda g'alaba qozonasizmi? - Ba'zida do'stlarim bilan o'yinlarda g'alaba qozonaman.
    %- Do you win in games with your friends? - Sometimes I win in games with my friends.
-   > > >
 
-## 12.5
+## 12.5 ✅
 
--  Kinoda qanday tajribaga ega bo'ldingiz? - Biz kinoga bordik, lekin afsuski, film unchalik yaxshi bo'lmadi va bizga yoqmadi.
-   %- What was your experience at the cinema? - We went to the cinema, but unfortunately, the film wasn’t very good, and we didn’t enjoy it.
-   > > >
--  Kecha Tom qanday narsalarni sotib oldi? - Kecha Tom yangi kiyimlar, jumladan ikkita ko'ylak, ko'ylagi va pullover sotib oldi.
-   %- What items did Tom purchase yesterday? - Tom bought some new clothes yesterday, including two shirts, a jacket, and a pullover.
-   > > >
+-  Kinodan olgan ta'surotingiz qanday? - Biz kinoga bordik, lekin afsuski, film unchalik yaxshi bo'lmadi va bizga yoqmadi.
+   %- What was your experience with the cinema? - We went to the cinema, but unfortunately, the film wasn’t very good, and we didn’t enjoy it.
+-  Kecha Tom qanday narsalarni sotib oldi? - Kecha Tom yangi kiyimlar, shuningdek ikkita ko'ylak, kurtkacha va yengsiz-jemper sotib oldi.
+   %- What items did Tom purchase yesterday? - Tom bought some new clothes yesterday, including two shirts, a jacket, and pullover.
 -  Kecha yomg'ir yog'dimi? - Yo'q, yaxshi kun edi.
    %- Dit it rain yesterday? - No, it was a nice day.
-   > > >
--  Nega ziyofatda uzoq qolmadingiz? - Biz charchadik, shuning uchun ziyofatda uzoq qolmadik.
+-  Nega ziyofatda uzoq qolmadingiz? - Biz charchagandik, shuning uchun ziyofatda uzoq qolmadik.
    %- Why didn’t you stay long at the party? - We were tired, so we didn’t stay long at the party.
-   > > >
--  Nega deraza ochdingiz? - Xona juda issiq edi, shuning uchun men derazani ochdim.
+-  Nega deraza ochdingiz? - Xona juda iliq edi, shuning uchun men deraza ochdim.
    %- Why did you open a window? - It was very warm in the room, so I opened a window.
-   > > >
 -  Bugun ertalab Krisga telefon qildingizmi? - Yo'q, vaqtim yo'q edi.
    %- Did you phone Chris this morning? - No, I didn't have time.
-   > > >
 -  Bugun ertalab qo'limni kesib oldim. - Buni qanday qilding?
    %- I cut my hand this morning. - How did you do that?
-   > > >
 -  Nega kechagi yig'ilishda bo'lmadingiz? - Men bundan xabarim yo'q edi.
    %- Why weren't you at the meeting yesterday? - I didn't know about it.'
-   > > >
 
 # UNIT-13: I was doing (past continuous) ✅
 
